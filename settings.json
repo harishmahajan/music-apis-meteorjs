@@ -1,0 +1,15 @@
+{
+  "spotify": {
+    "url": "https://api.spotify.com/v1",
+    "apiKey": "542287a692604d8aa5e3f77621fbb190",
+    "secret": "f7164a67b1bc4624b8b77ac0118410f5"
+  },
+  "appleMusic": {
+    "developerToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGciOiJFUzI1NiIsImtpZCI6IlZFTDUyUlBRN0oiLCJpc3MiOiI1WVlaWDdUQlg2IiwiaWF0IjoxNTE2NDQ5NjAwLCJleHAiOjE1MzIyMjY1OTB9.6nBGMubjasDolUF8IP0zWYqhcwuz0Kvo9_h_rmkYx3k",
+    "userToken": ""
+  },
+  "clover":{
+    "apiKey":"ZBSCXMA838418",
+    "url":"https://sandbox.dev.clover.com/v3/"
+  }
+}
